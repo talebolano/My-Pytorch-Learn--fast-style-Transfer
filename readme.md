@@ -15,5 +15,7 @@ move your style image in data
 python train.py
 
 ## result
-
-![原始图 -w500](image/amber.jpg){:height="50%" width="50%"} ![效果图 -w500](image/pre3.jpg){:height="50%" width="50%"}
+<p align="center">
+    <img src="image/amber.jpg" height="200px">
+    <img src="image/pre3.jpg" height="200px">
+</p>
