@@ -2,10 +2,10 @@
 
 a simple sample for fast style Transfer
 
-##how to test
+## how to test
 
 python genrate.py --image test.jpg --out_name style.jpg
-##how to train 
+## how to train 
 mkdir data && cd data && mkdir image
 
 move your train image in data/image/
