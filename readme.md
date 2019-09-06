@@ -13,4 +13,8 @@ move your train image in data/image/
 move your style image in data
 
 python train.py
- 
+
+## result
+
+[原始图](https://raw.githubusercontent.com/talebolano/My-Pytorch-Learn--fast-style-Transfer/master/image/amber.jpg)
+[效果图](https://raw.githubusercontent.com/talebolano/My-Pytorch-Learn--fast-style-Transfer/master/image/pre3.jpg) 
