@@ -16,5 +16,4 @@ python train.py
 
 ## result
 
-[原始图](https://raw.githubusercontent.com/talebolano/My-Pytorch-Learn--fast-style-Transfer/master/image/amber.jpg)
-[效果图](https://raw.githubusercontent.com/talebolano/My-Pytorch-Learn--fast-style-Transfer/master/image/pre3.jpg) 
+![原始图](image/amber.jpg) ![效果图](image/pre3.jpg)
