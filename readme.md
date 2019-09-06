@@ -16,4 +16,4 @@ python train.py
 
 ## result
 
-![原始图](image/amber.jpg) ![效果图](image/pre3.jpg)
+![原始图 -w500](image/amber.jpg) ![效果图 -w500](image/pre3.jpg)
