@@ -18,4 +18,5 @@ python train.py
 <p align="center">
     <img src="image/amber.jpg" height="200px">
     <img src="image/pre3.jpg" height="200px">
+    <img src="image/pre4.jpg" height="200px">
 </p>
